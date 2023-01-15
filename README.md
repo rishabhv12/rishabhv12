@@ -1,3 +1,12 @@
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
+</div>
+
+<h2 align="center">Hi 👋, I'm Rishabh Verma</h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Rishabh%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+
+---
 # 💫 About Me:
 🔭 I’m currently working on Mobzway Technology<br>👯 I’m looking to collaborate on full-stack web development<br>🤝 I’m looking for help with Backend & APIs<br>🌱 I’m currently pursuing my B-Tech CSE from UIET Kanpur <br>💬 Ask me about coding<br>⚡ Fun fact: Can you challenge me in chess, I bet you lose. 
 
