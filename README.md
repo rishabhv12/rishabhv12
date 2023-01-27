@@ -26,6 +26,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rishabh_v12&icon=0&color=1)](https://visitcount.itsvg.in)
-
+<!-- [![](https://visitcount.itsvg.in/api?id=rishabh_v12&icon=0&color=1)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=rishabhv12&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
