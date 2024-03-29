@@ -8,7 +8,7 @@
 
 ---
 # 💫 About Me:
-🔭 I’m currently working on Mobzway Technology<br>👯 I’m looking to collaborate on full-stack web development<br>🤝 I’m looking for help with Backend & APIs<br>🌱 I’m currently pursuing my B-Tech CSE from UIET Kanpur <br>💬 Ask me about coding<br>⚡ Fun fact: Can you challenge me in chess, I bet you lose. 
+🔭 I’m currently working as a Software Engineer Intern @Zluri <br>👯 I’m looking to collaborate on full-stack web development<br>🤝 I’m looking for help with Backend & APIs<br>🌱 I’m currently pursuing my B-Tech CSE from UIET Kanpur <br>💬 Ask me about coding<br>⚡ Fun fact: Can you challenge me in chess, I bet you lose. 
 
 
 ## 🌐 Socials:
